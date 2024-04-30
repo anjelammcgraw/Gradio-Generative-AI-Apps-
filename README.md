@@ -1,6 +1,3 @@
-# Gradio-Generative-AI-Apps-
-Image generation, image captioning, and text-summarization apps
-
 # 🤖 Gradio: Building Generative AI Apps
 
 In this repo, we'll build an Image Generation app, an Image Captioning app, and a Text Summarization App. Then, we'll deploy them on Hugging Face Spaces.
